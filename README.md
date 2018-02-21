@@ -1,4 +1,4 @@
-# How to Organize your Project
+# Hackability Barilla 2017 - Artu
 
 Each Hackability project will be published on the [Hackability official GitHub Page](https://github.com/HackabilityNPO). Take this repository as a starting point on
 how to organize the project.
