@@ -1,11 +1,10 @@
 # Hackability Barilla 2017 - Artu
 
-Each Hackability project will be published on the [Hackability official GitHub Page](https://github.com/HackabilityNPO). Take this repository as a starting point on
-how to organize the project.
+Artù is a robotic exoskeleton designed for quadriplegic people that have limited movements in general and, therefore, many difficulties in the kitchen while cooking or eating. Artu helps these patients to hold and to use objects for cutting (all the knives) and hot cups, kettles and similar containers.
 
 ![Hackability Logo](images/logo.png)
 
-## The Team
+## Artù - Who (aka "Team Entusiasmo")
 
 * Pietro Gemma
 * Enrico Bassi
@@ -15,15 +14,17 @@ how to organize the project.
 * Nadia Crivelli
 * Giuseppa Cafueri
 
-## Repository Organization
+## Artù - Why / When / Where
 
-Each Hackabilty Project **must be** well documented and organized in order to be considered concluded.
-There is no a general rule on how to document a project. The documentation have to enable an user with good knowledge 
-to replicate and improve the project without much effort. Hence, you must organize and document the 
-project in a propre way and include all files you produced during the project and as much informationa as possible.
+Artu was born around the needs of Pietro, our friend who lost the use of arms due to an accident.
 
-Except for the `README.md` file, **that is mandatory**, here you can find some guidelines on how to organize 
-your GitHun Project repo.
+The whole team created Artù during [Hackability@Barilla](http://www.hackability.it/hackabilitybarilla/). The devolpment took about one month, from January 20, 2018 to Februry 23, 2018.
+
+The original idea was conceived at the Barilla Headquarters, Parma; the actual design, development and testing was carried out in Mantova (LTO Mantova) and Milano (Opendot).
+
+## Artù - What
+
+lightweight exoskeleton molded specifically to the shape of Pietro's forearm. 
 
 ### The Repository should be organized as following
 
@@ -45,31 +46,3 @@ your GitHun Project repo.
 ## Where I can Share my project?
 
 You can publish your project on every sharing platform you prefer. Please add on the README.md file of your repo project all information about other platform where the project exists.
-
-## Where to create the project repository
-
-You can create the project repository on your personal GitHub account or organization. Once the project
-is concluded and documented, Hackability will fork your repo on the [Hackability official GitHub Page](https://github.com/HackabilityNPO).
-
-## General Notes
-
-When publishing files, please include both proprietary editable and open format of the same file.
-
-Include all foto material on this repo! Not link images from external links. 
-
-Use Markdown for documentation. You can find a [here great introduction to markdown](https://guides.github.com/features/mastering-markdown/) and some [nice tutorials here](https://www.markdowntutorial.com/).
-
-## Metanotes :O
-
-Anyone can collaborate to this repo by extending this documentation and creating some tutorials on how to create and organize your
-repo. It will be super interesting if someone, while organizing a specific project, can do videos recoring or tutorial on how to do
-practically the project organization.
-
-Very well documented project will be linked here as examples!
-
-## License
-
-TO BE DEFINED
-
-## Contributors
- - [Ludovico Russo](https://github.com/ludusrusso)
