@@ -38,19 +38,28 @@ Then, we designed a flattened version of exoskeleton in CAD and we made it light
 
 ...
 
-### The Repository should be organized as following
 
- - `README.md`. Put here general information about the project. This file must be written in [Markdown]()
-    1. Name and high level description of the project,
-    2. Name and date of the Hackability (e.g., Hackability@Polito, 2015)
-    3. Detailed description of the project, with impages and information about the state of development of the project
-    4. Credits, e.g., Team name and components, image of the team, acknowledgments, external links where the project have been published etc.
-    5. License.
+### The assembled tool
 
-- `mechanics/`. Put here all digital files describing mechanics components developed for the project.
-- `electronics/`.  Put here all digital files describing electronics components developed for the project.
-- `software/`. Put here all the software developed.
-- `documentation/`. Put here all documentations produced. 
-- `tutorials/`. Put here all tutorials describing how to use and replicate the project.
-- `images/`. Put here all images (including photos of the work, schematics, etc.)
-- `videos/`. Put here all videos produced. If videos have been published to different platofrm (like YouTube), include a file `videos/external.md` with links to external videos.
+As you see below, the plier is connected to the motor, which moves pull a steel thread, thus moving and locking  thighten the the movable finger. The motor is connected to the external box (bottom right in the photo), which containts the USB-rechargable power bank and two buttons on the top of the box for moving backward or forward the motor head.
+
+![](images/assembled1.png)
+
+## In action...
+
+A video is worth a thousand words... :-)
+
+![](videos/inaction.mp4)
+
+### The Repository is organized as following
+
+ - `README.md`. General information about the project.
+ - `mechanics/`. digital files describing mechanics components.
+ - `electronics/`.  digital files describing electronics components used.
+ - `software/`. software developed.
+ - `images/`. images, photos of the work, etc.
+ - `videos/`. videos of the project in action.
+
+## License
+
+To be defined.
