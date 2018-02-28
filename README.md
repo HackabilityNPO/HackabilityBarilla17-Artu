@@ -1,10 +1,12 @@
-# Hackability Barilla 2017 - Artu
+# Artu
+## Hackability Barilla 2017
 
+## What
 Artù is a robotic exoskeleton designed for quadriplegic people that have limited movements in general and, therefore, many difficulties in the kitchen while cooking or eating. Artu helps these patients to hold and to use objects for cutting (all the knives) and hot cups, kettles and similar containers.
 
 ![Hackability Logo](images/logo.png)
 
-## Artù - Who (aka "Team Entusiasmo")
+## Who (aka "Team Entusiasmo")
 
 * Pietro Gemma
 * Enrico Bassi
@@ -14,7 +16,9 @@ Artù is a robotic exoskeleton designed for quadriplegic people that have limite
 * Nadia Crivelli
 * Giuseppa Cafueri
 
-## Artù - Why / When / Where
+![Hackability Logo](images/team.jpg)
+
+## Why / When / Where
 
 Artu was born around the needs of Pietro, our friend who lost the use of arms due to an accident.
 
@@ -22,9 +26,17 @@ The whole team created Artù during [Hackability@Barilla](http://www.hackability
 
 The original idea was conceived at the Barilla Headquarters, Parma; the actual design, development and testing was carried out in Mantova (LTO Mantova) and Milano (Opendot).
 
-## Artù - What
+## How
 
-lightweight exoskeleton molded specifically to the shape of Pietro's forearm. 
+### The exoskeleton
+
+Artu has a lightweight exoskeleton molded specifically to the shape of Pietro's forearm.
+The first prototype was made with a modeling paste and foam core. A second prototype was made of polyethylene, again molded specifically to the shape of Pietro's forearm.
+Then, we designed a flattened version of exoskeleton in CAD and we made it lightweight using a honeycomb-like structure. The exoskeleton can be easily and quickly printed in 3D and hot bended around the arm.
+
+### The motorized plier
+
+...
 
 ### The Repository should be organized as following
 
@@ -42,7 +54,3 @@ lightweight exoskeleton molded specifically to the shape of Pietro's forearm.
 - `tutorials/`. Put here all tutorials describing how to use and replicate the project.
 - `images/`. Put here all images (including photos of the work, schematics, etc.)
 - `videos/`. Put here all videos produced. If videos have been published to different platofrm (like YouTube), include a file `videos/external.md` with links to external videos.
-
-## Where I can Share my project?
-
-You can publish your project on every sharing platform you prefer. Please add on the README.md file of your repo project all information about other platform where the project exists.
