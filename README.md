@@ -59,6 +59,7 @@ The code running on the Arduino board is quite simple - it reads the inputs and 
 
 The switch physically disconnect the power source from the circuit (best way to save power). A USB-male terminated cable allows to recharge the power bank using a standard recharger (or even a the USB port of a computer).
 
+![](electronics/artu_bb.png)
 
 ### The assembled tool
 
