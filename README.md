@@ -65,6 +65,8 @@ The switch physically disconnects the power source from the circuit (best way to
 
 ![](electronics/artu_bb.png)
 
+We were able to run the motor also powering it at 5V from the USB, without using the step up - the rotation was a bit slower but still usable.
+
 ### The assembled tool
 
 As you see below, the plier is connected to the motor, which moves pull a steel thread, thus moving the finger and tightening the plier. The motor is connected to the external box (bottom right in the photo), which contains the USB-rechargeable power bank and two buttons on the top of the box for moving backward or forward the motor head.
@@ -82,8 +84,7 @@ As you see below, the plier is connected to the motor, which moves pull a steel 
 
 ## License
 
-To be defined.
-
+All the material is available under the terms of the CC BY-SA 4.0 license (Creative Commons Attribution-ShareAlike 4.0 International License)
 
 ## In action...
 
