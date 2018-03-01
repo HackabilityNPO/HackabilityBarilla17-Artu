@@ -87,6 +87,6 @@ To be defined.
 
 ## In action...
 
-A *[video](videos/inaction.mp4)* is worth a thousand words!
+A *[video](https://raw.githubusercontent.com/emanueleg/HackabilityBarilla17-Artu/master/videos/inaction.mp4)* is worth a thousand words!
 
 So long, and thanks for all the bananas :-)
