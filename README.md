@@ -46,12 +46,12 @@ Artu has a lightweight exoskeleton molded specifically on the shape of Pietro's 
 The first prototype was made with modeling paste and foam core. A second prototype was made of polyethylene, again molded on the shape of Pietro's forearm.
 Then, we designed a flattened version of exoskeleton in CAD and we made it lightweight using a honeycomb-like structure. The exoskeleton can be easily and quickly printed in 3D and hot bended around the arm.
 
-![](images/hotbending3.png)
+![](images/hotbending3.jpg)
 
 The exoskeleton has a movable plier to hold the objects and which can be rotated at different angles.
 The bottom part of the plier is provided a straight bevel gear. This gear is coupled with a similar parallel gear near the palm of the exoskeleton. The gears have 12 teeth, so 12 possible rotating positions (30 degrees each) are allowed. In each of these positions, the two gears fit perfectly and are in a minimum-energy position. Using a thin steel thread, we can pull the plier towards the palm, keeping them locked in the desired position.
 
-![](images/plier2.png)
+![](images/plier1.png)
 
 ### The motorized plier
 
