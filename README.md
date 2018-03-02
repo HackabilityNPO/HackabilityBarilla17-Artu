@@ -88,6 +88,6 @@ All the material is available under the terms of the CC BY-SA 4.0 license (Creat
 
 ## In action...
 
-A *[video](https://raw.githubusercontent.com/emanueleg/HackabilityBarilla17-Artu/master/videos/inaction.mp4)* is worth a thousand words!
+A *[video](https://youtu.be/Hmfroie_xvs)* is worth a thousand words!
 
 So long, and thanks for all the bananas :-)
