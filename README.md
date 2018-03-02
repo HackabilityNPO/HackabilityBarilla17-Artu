@@ -1,8 +1,7 @@
-# Artu
-## Hackability Barilla 2017
+# Artù - Hackability@Barilla
 
 ## What
-Artù is a robotic exoskeleton designed for quadriplegic people that have limited movements in general and, therefore, many difficulties in the kitchen while cooking or eating. Artu helps these patients to hold and to use objects for cutting (all the knives) and hot cups, kettles and similar containers.
+Artù is a robotic exoskeleton designed for quadriplegic people that have limited movements in general and, therefore, many difficulties in the kitchen while cooking or eating. Artù helps these patients to hold and to use objects for cutting (all the knives) and hot cups, kettles and similar containers.
 
 ![Hackability Logo](images/logo.png)
 
@@ -20,7 +19,7 @@ Artù is a robotic exoskeleton designed for quadriplegic people that have limite
 
 ## Why / When / Where
 
-Artu was born around the needs of Pietro, our friend who lost the use of arms and legs due to an accident.
+Artù was born around the needs of Pietro, our friend who lost the use of arms and legs due to an accident.
 
 The whole team created Artù during [Hackability@Barilla](http://www.hackability.it/hackabilitybarilla/). The development took about one month, from January 20, 2018 to February 23, 2018.
 
@@ -42,7 +41,7 @@ The original idea was conceived at the Barilla Headquarters, Parma; the actual d
 
 ### The exoskeleton
 
-Artu has a lightweight exoskeleton molded specifically on the shape of Pietro's forearm.
+Artù has a lightweight exoskeleton molded specifically on the shape of Pietro's forearm.
 The first prototype was made with modeling paste and foam core. A second prototype was made of polyethylene, again molded on the shape of Pietro's forearm.
 Then, we designed a flattened version of exoskeleton in CAD and we made it lightweight using a honeycomb-like structure. The exoskeleton can be easily and quickly printed in 3D and hot bended around the arm.
 
